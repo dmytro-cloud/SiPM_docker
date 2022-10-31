@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-LABEL maintainer="Dmytro Minchenko <dmytro.minchenko@gmail.com>"
+LABEL maintainer="Dmytro Minchenko <minchenk@ualberta.ca>"
 
 # Switch default shell to bash
 SHELL ["/bin/bash", "-c"]
